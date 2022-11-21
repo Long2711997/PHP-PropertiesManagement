@@ -1,0 +1,59 @@
+.intro{
+    background-color: #EBB54D;
+}
+
+.intro .row{
+    height: 700px;
+    padding: 100px 0;
+}
+
+.intro .col-6:first-child{
+    position: relative;
+}
+
+.intro .col-6:last-child {
+    padding-left: 100px;
+}
+
+.intro .col-6:first-child img:first-child{
+    position: absolute;
+    top: -10px;
+    left: 50px;
+}
+
+.intro .col-6:first-child img:last-child {
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+
+.intro .col-6:last-child h1 {
+    padding-left: 50px;
+    padding-top: 100px;
+    color: #162B75;
+}
+
+.intro .col-6:last-child .fa-solid{
+    color: #F9E9B8;
+    padding-right: 20px;
+}
+
+.intro .col-6:last-child li {
+    list-style-type: none;
+    font-size: larger;
+    color: #162B75;
+}
+
+.product {
+    background-color: beige;
+    padding-bottom: 100px;
+}
+
+.product h1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.card{
+    width: 25%;
+}

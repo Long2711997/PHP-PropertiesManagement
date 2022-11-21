@@ -1,0 +1,23 @@
+body{
+    background-image: url('../image/aa6f6b395229f06073d3b5f18245abb3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.signin_form{
+    width: 60% !important;
+    position: absolute;
+    top: 400px;
+    padding: 30px 50px;
+    border-radius: 50px;
+    background-color: #EBB54D;
+}
+
+.home_intro_text{
+    font-family: 'Pacifico';
+    font-size: 4rem;
+    padding-top: 30%;
+    padding-left: 10%;
+    color: midnightblue;
+}
